@@ -55,6 +55,7 @@ render(){
       <option key={categoria.id} value={categoria.id}>{categoria.nombre}</option>)
     }
   </select>
+  
   </div> 
 
   )
